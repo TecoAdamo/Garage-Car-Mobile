@@ -14,7 +14,7 @@ export default function LogoBox() {
 
 const styles = StyleSheet.create({
     logoContainer: {
-        bottom: '22%',
+        bottom: '20%',
         height: 90,
         width: '100%',
         alignItems: 'center',

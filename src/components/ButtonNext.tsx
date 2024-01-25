@@ -6,7 +6,7 @@ export default function ButtonNext() {
     return (
         <View style={styles.buttonContainer}>
             <Button title="<" />
-            <Text style={styles.textPrice}> Valor </Text>
+            <Text style={styles.textPrice}>  </Text>
             <Button title=">" />
 
         </View>
