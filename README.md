@@ -17,4 +17,4 @@ Intuito:
 Desenvolvi esse App no intuito de estudar a chamada de uma API e trabalhar dinamicamente os dados dela pela tela do aplicativo!
 
 
-![LogoCarGarage](https://github.com/TecoAdamo/Garage-Car-Mobile/assets/133070554/5023478c-280a-4dc2-a0d7-522435f7a798) https://github.com/TecoAdamo/Garage-Car-Mobile/assets/133070554/c20cd986-878f-4aef-a91b-407c6b98cc95
+![LogoCarGarage](https://github.com/TecoAdamo/Garage-Car-Mobile/assets/133070554/5023478c-280a-4dc2-a0d7-522435f7a798) ![AppGarageCar](https://github.com/TecoAdamo/Garage-Car-Mobile/assets/133070554/c20cd986-878f-4aef-a91b-407c6b98cc95)
